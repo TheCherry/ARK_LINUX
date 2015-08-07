@@ -11,8 +11,8 @@ Start the game with this:
 -USEALLAVAILABLECORES -nomansky -SM4
 
 ### Freeze
--Give your system more Swap! Best is on SSD.
--To fix a freeze quickly: **CTRL+ALT+F1** and back to **CTRL+ALT+ F7 / F8** or login by **F1** and kill it with htop.
+Give your system more Swap! Best is on SSD.  
+To fix a freeze quickly: CTRL+ALT+F1 and back to CTRL+ALT+ F7 / F8 or login by F1 and kill it with htop.
 ----
 # My System
 Linux Mint 17.1  
