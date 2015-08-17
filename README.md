@@ -28,3 +28,4 @@ Ark installed on SSD
 ![Alt text](http://f.666kb.com/i/d10hv0rm5epau6rp7.png)
 3. Game need much RAM, swap is needed.
 4. The voice sound don’t work, I can speak, but I can't hear another people.
+5. Keyboard-Layout seems buggy, it's not German and not US, it's a mix from both. I have to Copy-Paste a simple "?" or ":"
