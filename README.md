@@ -7,7 +7,7 @@ Don’t click into the loading screen, just wait until the game is loaded.
 
 ### FPS
 Start the game with this:  
--USEALLAVAILABLECORES -nomansky -SM4
+-USEALLAVAILABLECORES -nomansky
 
 ### Freeze
 ~~Give your system more Swap! Best is on SSD.~~  
