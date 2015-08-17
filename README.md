@@ -23,9 +23,8 @@ GTX650 - 2GB
 Ark installed on SSD
 
 # Bug Report
-1. My Game runs with ~30fps
-2. Sometimes there are graphic bugs, but not often and i don’t know the settings to reproduce that.
-![Alt text](http://f.666kb.com/i/d10hv0rm5epau6rp7.png)
+1. My Game runs with ~30fps. Except in caves or on mountens, there I have mostly 10-15 fps.
+2. Sometimes there are graphic bugs, see [graphic_bugs directory](/graphic_bugs)
 3. Game need much RAM, swap is needed.
-4. The voice sound don’t work, I can speak, but I can't hear another people.
+4. The voice sound don’t work, I can speak, but I can't hear another people. (The voice-bubble icon flickers)
 5. Keyboard-Layout seems buggy, it's not German and not US, it's a mix from both. I have to Copy-Paste a simple "?" or ":"
