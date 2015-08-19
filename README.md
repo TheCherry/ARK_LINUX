@@ -23,7 +23,7 @@ GTX650 - 2GB
 Ark installed on SSD
 
 # Bug Report
-1. My Game runs with ~30fps. Except in caves or on mountens, there I have mostly 10-15 fps.
+1. My Game runs with ~30fps. Except in caves or on mountains, there I have mostly 10-15 fps.
 2. Sometimes there are graphic bugs, see [graphic_bugs directory](/graphic_bugs)
 3. Game need much RAM, swap is needed.
 4. The voice sound don’t work, I can speak, but I can't hear another people. (The voice-bubble icon flickers)
