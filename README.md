@@ -29,3 +29,6 @@ Ark installed on SSD
 3. Game need much RAM, swap is needed.
 4. The voice sound don’t work, I can speak, but I can't hear another people. (The voice-bubble icon flickers)
 5. Keyboard-Layout seems buggy, it's not German and not US, it's a mix from both. I have to Copy-Paste a simple "?" or ":"
+
+
+www.arktastisch.de
